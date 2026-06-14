@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">TihwinAndroid</string> <!-- Mantenha o nome do seu app -->
+    <string-array name="disc_types">
+        <item>CD</item>
+        <item>DVD</item>
+    </string-array>
+
+    <string name="usb_permission_status">Permissão USB: %1$s</string>
+    <string name="usb_permission_denied">Permissão negada para o dispositivo USB</string>
+    <string name="open_cfg_from_device_storage">Abrir ul.cfg do armazenamento do dispositivo</string>
+    <string name="open_cfg_from_usb_device">Abrir ul.cfg do dispositivo USB</string>
+    <string name="create_new_cfg_on_usb_device">Criar novo ul.cfg no dispositivo USB</string>
+    <string name="no_usb_device_connected">Nenhum dispositivo USB conectado ou reconhecido.</string>
+    <string name="manage_cfg">Gerenciar ul.cfg</string>
+    <string name="searching_creating_cfg">Buscando/Criando ul.cfg...</string>
+    <string name="invalid_directory_selected">Diretório selecionado inválido.</string>
+    <string name="new_cfg_created">Novo arquivo ul.cfg criado. Adicione jogos e salve.</string>
+    <string name="failed_to_create_cfg">Falha ao criar ul.cfg.</string>
+    <string name="error_creating_cfg">Erro ao criar ul.cfg: %1$s</string>
+    <string name="processing_iso">Processando ISO...</string>
+    <string name="game_id_extracted">Game ID extraído: %1$s</string>
+    <string name="failed_to_extract_game_id">Não foi possível extrair o Game ID.</string>
+    <string name="saved_cfg_file_revalidated">URI do arquivo CFG salvo revalidado: %1$s</string>
+    <string name="access_to_cfg_file_lost">Acesso à URI do arquivo CFG perdido. Por favor, selecione o arquivo novamente.</string>
+    <string name="welcome_message">Bem-vindo! Abra ou crie um arquivo ul.cfg para começar.</string>
+    <string name="loading_cfg">Carregando ul.cfg...</string>
+    <string name="cfg_loaded_successfully">ul.cfg carregado com sucesso.</string>
+    <string name="error_reading_cfg">Erro ao ler o arquivo ul.cfg.</string>
+    <string name="no_cfg_selected">Nenhum arquivo ul.cfg selecionado.</string>
+    <string name="saved_successfully">Salvo com sucesso!</string>
+    <string name="changes_saved_to_cfg">Alterações salvas em ul.cfg.</string>
+    <string name="error_saving">Erro ao salvar: %1$s</string>
+    <string name="starting_conversion">Iniciando conversão...</string>
+    <string name="error_invalid_empty_iso">Erro: Arquivo ISO inválido ou vazio.</string>
+    <string name="error_accessing_destination_directory">Erro: Não foi possível acessar o diretório de destino.</string>
+    <string name="error_creating_chunk_file">Erro: Não foi possível criar o arquivo de chunk %1$s.</string>
+    <string name="converting_chunk">Convertendo: %1$s (%2$d%%)</string>
+    <string name="conversion_complete">Conversão dos chunks concluída!</string>
+    <string name="conversion_failed">Falha na conversão: %1$s</string>
+    <string name="saved_to_usb_successfully">Salvo no USB com sucesso!</string>
+    <string name="changes_saved_to_usb_cfg">Alterações salvas no ul.cfg do USB</string>
+    <string name="conversion_successful_updating_cfg">Conversão bem-sucedida! Atualizando ul.cfg...</string>
+    <string name="error_saving_to_usb">Erro ao salvar no USB: %1$s</string>
+    <string name="loading_cfg_from_usb">Carregando ul.cfg do USB...</string>
+    <string name="cfg_loaded_from_usb_successfully">ul.cfg carregado do USB com sucesso.</string>
+    <string name="error_reading_cfg_from_usb">Erro ao ler o arquivo ul.cfg do USB.</string>
+    <string name="no_mass_storage_device_found">No mass storage device found for attached USB device: %1$s</string>
+    <string name="usb_device_not_mass_storage">Dispositivo USB conectado não é um dispositivo de armazenamento em massa.</string>
+    <string name="cfg_found_via_usb">ul.cfg encontrado via USB! Carregando...</string>
+    <string name="new_cfg_created_usb">Novo ul.cfg criado na raiz do USB. Adicione jogos e salve.</string>
+    <string name="failed_to_create_cfg_usb">Falha ao criar ul.cfg na raiz do USB.</string>
+    <string name="error_creating_cfg_usb">Erro ao criar ul.cfg no USB: %1$s</string>
+    <string name="error_configuring_usb_device">Erro ao configurar o dispositivo USB</string>
+    <string name="error_reading_usb_device">Erro ao ler o dispositivo USB</string>
+    <string name="game_marked_as_removed">Game %1$s (%2$s) marked as removed.</string>
+    <string name="select_cfg_directory_first">Por favor, selecione o diretório do ul.cfg primeiro.</string>
+    <string name="select_cfg_file_first">Por favor, selecione o arquivo ul.cfg primeiro.</string>
+    <string name="error_prefix">Erro</string>
+</resources>

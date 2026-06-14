@@ -1,0 +1,3 @@
+[submodule "android/libaums"]
+	path = android/libaums
+	url = https://github.com/luanweslley77/libaums.git
